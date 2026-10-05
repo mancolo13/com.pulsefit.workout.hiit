@@ -15,7 +15,7 @@ class PulseFitApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'PulseFit',
+      title: 'Win',
       theme: AppTheme.darkTheme,
       debugShowCheckedModeBanner: false,
       home: const SplashScreen(),
